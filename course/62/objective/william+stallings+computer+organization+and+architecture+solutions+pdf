@@ -1,0 +1,31 @@
+<p><strong>William Stallings Computer Organization and Architecture Solutions PDF: Questions and Answers</strong></p>
+<ol>
+<li><strong>Define the difference between a von Neumann and a Harvard architecture.</strong></li>
+</ol>
+<ul>
+<li><strong>Answer:</strong> In a von Neumann architecture, instructions and data share the same memory space, while in a Harvard architecture, they have separate memory spaces.</li>
+</ul>
+<ol start="2">
+<li><strong>Explain the purpose of a register file and its role in a CPU.</strong></li>
+</ol>
+<ul>
+<li><strong>Answer:</strong> A register file stores data and instructions that are currently being processed by the CPU, providing fast access to frequently used information.</li>
+</ul>
+<ol start="3">
+<li><strong>Describe the different types of buses used in a computer system.</strong></li>
+</ol>
+<ul>
+<li><strong>Answer:</strong> System buses, expansion buses, and peripheral buses are used to connect various components within a computer system, such as the CPU, memory, and I/O devices.</li>
+</ul>
+<ol start="4">
+<li><strong>Explain the concept of memory hierarchy and its advantages.</strong></li>
+</ol>
+<ul>
+<li><strong>Answer:</strong> Memory hierarchy refers to the organization of memory into different levels based on their speed and capacity. It improves performance by placing frequently used data in faster but smaller memories and less frequently used data in slower but larger memories.</li>
+</ul>
+<ol start="5">
+<li><strong>Describe the four phases of the instruction cycle.</strong></li>
+</ol>
+<ul>
+<li><strong>Answer:</strong> The four phases of the instruction cycle are fetch, decode, execute, and write-back. During the fetch phase, the instruction is retrieved from memory. In the decode phase, the instruction is decoded and operands are fetched. The execute phase performs the operation specified by the instruction. Finally, in the write-back phase, the results are written back to memory or registers.</li>
+</ul>

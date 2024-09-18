@@ -1,0 +1,11 @@
+<p><strong>Software Testing: Questions and Answers Explained by Srinivasan Desikan Gopalaswamy Ramesh</strong></p>
+<p><strong>Q1: What is the primary goal of software testing?</strong>
+A: The primary goal of software testing is to identify defects or errors in a software system before it is released to end-users.</p>
+<p><strong>Q2: What are the different types of software testing?</strong>
+A: Common types of software testing include functional testing, which evaluates whether the software meets its specified requirements; structural testing, which examines the internal code structure; and performance testing, which assesses the software's efficiency and speed.</p>
+<p><strong>Q3: Why is it important to test software before release?</strong>
+A: Software testing helps ensure that the software is reliable, safe, and meets user expectations. It also helps identify potential security vulnerabilities and performance issues that could be exploited by attackers or users.</p>
+<p><strong>Q4: What are the benefits of using automation in software testing?</strong>
+A: Automation in software testing can increase efficiency, improve accuracy, reduce the time and effort required, and allow for more thorough testing of the software system.</p>
+<p><strong>Q5: What are the key challenges in software testing today?</strong>
+A: Some of the challenges in software testing include keeping up with the rapid pace of software development, testing complex and distributed systems, and ensuring the security and reliability of software in a constantly evolving technological environment.</p>

@@ -1,0 +1,24 @@
+<p><strong>Set Theory Problems and Solutions: A Guide to Mastering Set Theory</strong></p>
+<p>Set theory is a fundamental branch of mathematics that deals with the study of sets. Sets are collections of distinct objects that can be used to represent a wide range of concepts, from the members of a club to the points in a geometric space. Understanding set theory is essential for many areas of mathematics, including algebra, analysis, and topology.</p>
+<p><strong>Problem 1</strong></p>
+<p>Find the union of the sets A = {1, 2, 3} and B = {3, 4, 5}.</p>
+<p><strong>Solution</strong></p>
+<p>The union of two sets is the set of all elements that are in either set. Therefore, the union of A and B is the set {1, 2, 3, 4, 5}.</p>
+<p><strong>Problem 2</strong></p>
+<p>Find the intersection of the sets A = {1, 2, 3} and B = {3, 4, 5}.</p>
+<p><strong>Solution</strong></p>
+<p>The intersection of two sets is the set of all elements that are in both sets. Therefore, the intersection of A and B is the set {3}.</p>
+<p><strong>Problem 3</strong></p>
+<p>Find the complement of the set A = {1, 2, 3} in the universal set U = {1, 2, 3, 4, 5}.</p>
+<p><strong>Solution</strong></p>
+<p>The complement of a set is the set of all elements in the universal set that are not in the set. Therefore, the complement of A in U is the set {4, 5}.</p>
+<p><strong>Problem 4</strong></p>
+<p>Determine whether the sets A = {1, 2, 3} and B = {2, 3, 4} are equal.</p>
+<p><strong>Solution</strong></p>
+<p>Two sets are equal if they have the same elements. Since A and B have the same elements, they are equal.</p>
+<p><strong>Problem 5</strong></p>
+<p>Prove that the union of two sets is a subset of their product.</p>
+<p><strong>Solution</strong></p>
+<p>Let A and B be two sets. The product of A and B is the set of all ordered pairs (a, b) such that a is in A and b is in B. The union of A and B is the set of all elements that are in either A or B.</p>
+<p>To prove that the union of A and B is a subset of their product, we need to show that every element of the union is also an element of the product. Let x be an element of the union of A and B. Then x is either in A or B. If x is in A, then x is in the product of A and B because (x, x) is an ordered pair in the product. If x is in B, then x is also in the product of A and B because (x, x) is an ordered pair in the product.</p>
+<p>Therefore, every element of the union of A and B is also an element of the product of A and B. Hence, the union of A and B is a subset of their product.</p>

@@ -1,0 +1,34 @@
+<h2>Simple Inverter Circuit Using 555 IC</h2>
+<p><strong>Q: What is an inverter circuit?</strong></p>
+<p>A: An inverter circuit is an electronic circuit that converts a digital input signal to its logical opposite output signal. In other words, it reverses the logic state of the input.</p>
+<p><strong>Q: How can I build a simple inverter circuit using a 555 timer IC?</strong></p>
+<p>A: Here is a simple schematic for an inverter circuit using a 555 timer IC:</p>
+<pre><code>+5V
+|
+R1 (10kΩ)
+|
+Pin 2 (Trigger)
+|
+555 IC
+|
+R2 (10kΩ)
+|
+Pin 6 (Threshold)
+|
+GND</code></pre>
+<p><strong>Q: How does the circuit work?</strong></p>
+<p>A: The 555 timer IC is configured as an astable multivibrator in this circuit. When the trigger pin (Pin 2) is pulled below 1/3 of the supply voltage, the output (Pin 3) switches to a high state. When the trigger pin is released, the output switches to a low state. By connecting the trigger pin to ground, we create an inverter circuit.</p>
+<p><strong>Q: What are the applications of an inverter circuit?</strong></p>
+<p>A: Inverter circuits have many applications, including:</p>
+<ul>
+<li>Level shifting: Converting a signal from one logic level to another</li>
+<li>Logic negation: Inverting the logic state of a signal</li>
+<li>Pulse generation: Generating pulses of a desired frequency and duty cycle</li>
+</ul>
+<p><strong>Q: What are the limitations of the 555 inverter circuit?</strong></p>
+<p>A: The 555 inverter circuit has some limitations, including:</p>
+<ul>
+<li>The output is not a perfect square wave.</li>
+<li>The output frequency is limited by the time constant of the RC components.</li>
+<li>The circuit may not be suitable for high-speed applications.</li>
+</ul>

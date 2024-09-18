@@ -1,0 +1,12 @@
+<p><strong>Theory of Automata by Daniel I. A. Cohen: Solution PDF Q&amp;A</strong></p>
+<p>Daniel I. A. Cohen's "Theory of Automata" is a classic textbook on formal language theory and automata theory. The book covers topics such as finite automata, regular expressions, pushdown automata, context-free grammars, and Turing machines. A solution PDF to the exercises in the book is available online.</p>
+<p><strong>Q: What is a finite automaton?</strong>
+A: A finite automaton is a mathematical model of computation. It consists of a set of states, a start state, a set of final states, and a set of transitions. A transition is a rule that specifies how the automaton moves from one state to another when it reads a certain input symbol.</p>
+<p><strong>Q: What is a regular expression?</strong>
+A: A regular expression is a formal language that describes a set of strings. It is made up of a combination of symbols that represent different operations, such as union, concatenation, and Kleene star. Regular expressions are often used to specify patterns in strings.</p>
+<p><strong>Q: What is a pushdown automaton?</strong>
+A: A pushdown automaton is a finite automaton that has a stack. The stack is used to store symbols. The automaton can push and pop symbols from the stack as it moves from one state to another. Pushdown automata are more powerful than finite automata and can recognize a wider range of languages.</p>
+<p><strong>Q: What is a context-free grammar?</strong>
+A: A context-free grammar is a formal grammar that generates a context-free language. A context-free language is a set of strings that can be derived from a set of production rules. The production rules specify how to replace non-terminal symbols in a string with terminal symbols.</p>
+<p><strong>Q: What is a Turing machine?</strong>
+A: A Turing machine is a theoretical model of computation that can be used to simulate any computer algorithm. It consists of a tape that is divided into cells, a head that reads and writes symbols on the tape, and a state register. The Turing machine can move the head left or right on the tape and change the state of the state register. Turing machines are the most powerful model of computation and can recognize any recursively enumerable language.</p>

@@ -1,0 +1,17 @@
+<p><strong>Solucionario Ingenieria Económica Blank Tarquin 7ma Edición PDF</strong></p>
+<p>El Solucionario de Ingeniería Económica de Blank y Tarquin es una herramienta esencial para los estudiantes que buscan comprender los conceptos de la ingeniería económica y resolver problemas relacionados. La 7ª edición ofrece soluciones detalladas y paso a paso a todos los problemas del libro de texto.</p>
+<p><strong>Pregunta 1:</strong> Calcule el valor presente de una serie de flujos de efectivo uniformes de \$10,000 durante 10 años a una tasa de interés del 10%.</p>
+<p><strong>Respuesta:</strong>
+PV = $10,000 x [(1 - (1 + 0,10)^-10) / 0,10] = $61,446</p>
+<p><strong>Pregunta 2:</strong> Encuentre la tasa de rendimiento de una inversión que genera flujos de efectivo de \$20,000, \$30,000 y \$40,000 durante los próximos 3 años, y tiene un costo inicial de \$70,000.</p>
+<p><strong>Respuesta:</strong>
+IRR = 15,7%</p>
+<p><strong>Pregunta 3:</strong> Determine el período de recuperación de un proyecto que tiene un costo inicial de \$50,000 y genera flujos de efectivo netos de \$12,000 al año.</p>
+<p><strong>Respuesta:</strong>
+Periodo de recuperación = 4,2 años</p>
+<p><strong>Pregunta 4:</strong> Calcule el VAN de un proyecto con un costo inicial de \$100,000, una vida útil de 5 años y un ingreso neto anual de \$25,000. La tasa de interés es del 8%.</p>
+<p><strong>Respuesta:</strong>
+VAN = -$10,395</p>
+<p><strong>Pregunta 5:</strong> Determine la relación beneficio-costo de un proyecto que tiene un costo inicial de \$200,000 y genera beneficios netos de \$150,000 durante su vida útil de 10 años.</p>
+<p><strong>Respuesta:</strong>
+Relación beneficio-costo = 1,25</p>

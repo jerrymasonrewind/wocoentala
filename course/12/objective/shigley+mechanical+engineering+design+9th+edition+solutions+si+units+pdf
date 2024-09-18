@@ -1,0 +1,70 @@
+<p><strong>Solutions Manual for Shigley's Mechanical Engineering Design 9th Edition (SI Units)</strong></p>
+<p><strong>Question 1:</strong> A rectangular beam with a width of 50 mm and a height of 100 mm is subjected to a bending moment of 10 kN-m. Determine the maximum bending stress in the beam, using the SI units.</p>
+<p><strong>Answer:</strong>
+The maximum bending stress is given by:</p>
+<pre><code>σ_max = (M * y) / I</code></pre>
+<p>where:</p>
+<ul>
+<li>M is the bending moment (10 kN-m)</li>
+<li>y is the distance from the neutral axis to the outermost fiber (50 mm)</li>
+<li>I is the area moment of inertia (bh^3/12 = 50 mm <em> 100 mm^3 / 12 = 4.17 </em> 10^8 mm^4)</li>
+</ul>
+<p>Substituting the values, we get:</p>
+<pre><code>σ_max = (10 kN-m * 50 mm) / 4.17 * 10^8 mm^4
+σ_max = 119.9 kPa</code></pre>
+<p><strong>Question 2:</strong> A solid circular shaft with a diameter of 25 mm is subjected to a torque of 500 N-m. Determine the maximum shear stress in the shaft, using the SI units.</p>
+<p><strong>Answer:</strong>
+The maximum shear stress is given by:</p>
+<pre><code>τ_max = (Tr) / J</code></pre>
+<p>where:</p>
+<ul>
+<li>T is the torque (500 N-m)</li>
+<li>r is the radius of the shaft (12.5 mm)</li>
+<li>J is the polar moment of inertia (πd^4/32 = π <em> 25 mm^4 / 32 = 12.27 </em> 10^6 mm^4)</li>
+</ul>
+<p>Substituting the values, we get:</p>
+<pre><code>τ_max = (500 N-m * 12.5 mm) / 12.27 * 10^6 mm^4
+τ_max = 50.58 MPa</code></pre>
+<p><strong>Question 3:</strong> A helical compression spring with a wire diameter of 4 mm, a mean coil diameter of 20 mm, and a total of 10 coils. Determine the spring rate, using the SI units.</p>
+<p><strong>Answer:</strong>
+The spring rate is given by:</p>
+<pre><code>k = G * d^4 / (8 * D^3 * n)</code></pre>
+<p>where:</p>
+<ul>
+<li>G is the shear modulus of the spring material (80 GPa)</li>
+<li>d is the wire diameter (4 mm)</li>
+<li>D is the mean coil diameter (20 mm)</li>
+<li>n is the number of coils (10 coils)</li>
+</ul>
+<p>Substituting the values, we get:</p>
+<pre><code>k = 80 GPa * 4 mm^4 / (8 * 20 mm^3 * 10 coils)
+k = 800 N/mm</code></pre>
+<p><strong>Question 4:</strong> A spherical pressure vessel with an internal diameter of 500 mm is subjected to an internal pressure of 5 MPa. Determine the wall thickness required to prevent the vessel from bursting, using the SI units.</p>
+<p><strong>Answer:</strong>
+The wall thickness is given by:</p>
+<pre><code>t = (Pr) / (2 * σ_allow)</code></pre>
+<p>where:</p>
+<ul>
+<li>P is the internal pressure (5 MPa)</li>
+<li>r is the internal radius (250 mm)</li>
+<li>σ_allow is the allowable stress of the vessel material (200 MPa)</li>
+</ul>
+<p>Substituting the values, we get:</p>
+<pre><code>t = (5 MPa * 250 mm) / (2 * 200 MPa)
+t = 6.25 mm</code></pre>
+<p><strong>Question 5:</strong> A journal bearing with a diameter of 50 mm and a length of 100 mm operates with a load of 2 kN and a speed of 1500 rpm. Determine the minimum oil film thickness required to prevent metal-to-metal contact, using the SI units.</p>
+<p><strong>Answer:</strong>
+The minimum oil film thickness is given by:</p>
+<pre><code>h = (C * μ * N) / (P * D * L)</code></pre>
+<p>where:</p>
+<ul>
+<li>C is the bearing clearance (0.001 mm)</li>
+<li>μ is the dynamic viscosity of the oil (0.01 Pa-s)</li>
+<li>N is the load (2 kN)</li>
+<li>P is the surface pressure (2 kN / 50 mm * 100 mm = 40 kPa)</li>
+<li>D is the bearing diameter (50 mm)</li>
+<li>L is the bearing length (100 mm)</li>
+</ul>
+<p>Substituting the values, we get:</p>
+<pre><code>h = (0.001 mm * 0.01 Pa-s * 2 kN) / (40 kPa * 50 mm * 100 mm)
+h = 0.0001 mm</code></pre>

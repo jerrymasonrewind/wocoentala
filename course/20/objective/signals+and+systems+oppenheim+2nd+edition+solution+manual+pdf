@@ -1,0 +1,26 @@
+<p><strong>Signals and Systems 2nd Edition Solution Manual PDF</strong></p>
+<p><strong>Question 1:</strong></p>
+<p>Find the Fourier transform of the signal x(t) = e^(-2t)u(t), where u(t) is the unit step function.</p>
+<p><strong>Answer:</strong></p>
+<p>The Fourier transform of x(t) is:</p>
+<pre><code>X(f) = 1/(2 + 2πif)</code></pre>
+<p><strong>Question 2:</strong></p>
+<p>Determine the Laplace transform of the function f(t) = t^2e^(-3t).</p>
+<p><strong>Answer:</strong></p>
+<p>The Laplace transform of f(t) is:</p>
+<pre><code>F(s) = 2/(s+3)^3</code></pre>
+<p><strong>Question 3:</strong></p>
+<p>Sketch the magnitude and phase response of the filter H(ω) = 1/(1+jω).</p>
+<p><strong>Answer:</strong></p>
+<p>The magnitude response is a decaying exponential function, and the phase response is a linear function with slope -1.</p>
+<p><strong>Question 4:</strong></p>
+<p>Find the convolution of two signals x(t) = e^(-t)u(t) and h(t) = u(t-1).</p>
+<p><strong>Answer:</strong></p>
+<p>The convolution of x(t) and h(t) is:</p>
+<pre><code>y(t) = e^(-(t-1))u(t-1)</code></pre>
+<p><strong>Question 5:</strong></p>
+<p>Solve the following differential equation using Laplace transform:</p>
+<pre><code>y''(t) + 2y'(t) + y(t) = e^(-t)u(t)</code></pre>
+<p><strong>Answer:</strong></p>
+<p>The solution to the differential equation is:</p>
+<pre><code>y(t) = (1/2)(1-e^(-t))u(t)</code></pre>

@@ -1,0 +1,26 @@
+<p><strong>Solution to Derivatives Markets for Exam FM</strong></p>
+<p><strong>Question 1</strong></p>
+<p>Explain the concept of a forward contract.</p>
+<p><strong>Answer</strong></p>
+<p>A forward contract is an agreement between two parties to buy or sell an underlying asset at a specified price on a future date. Unlike futures contracts, forward contracts are not standardized and are typically customized to meet the specific needs of the parties involved.</p>
+<p><strong>Question 2</strong></p>
+<p>What is the difference between a futures contract and a forward contract?</p>
+<p><strong>Answer</strong></p>
+<p>Futures contracts are standardized contracts traded on an exchange, while forward contracts are customized contracts traded over-the-counter (OTC). Futures contracts have standardized specifications, such as the underlying asset, contract size, and settlement date, while forward contracts can be tailored to the specific requirements of the parties involved.</p>
+<p><strong>Question 3</strong></p>
+<p>Describe the process of hedging with futures contracts.</p>
+<p><strong>Answer</strong></p>
+<p>Hedging with futures contracts involves entering into a futures contract with the opposite risk exposure to the underlying asset. For example, a farmer who anticipates a future decline in corn prices can sell corn futures contracts to lock in a price and protect against potential losses.</p>
+<p><strong>Question 4</strong></p>
+<p>What are the advantages of using options contracts?</p>
+<p><strong>Answer</strong></p>
+<p>Options contracts provide the buyer with the right, but not the obligation, to buy or sell an underlying asset at a specified price on a future date. The main advantages of options contracts include:</p>
+<ul>
+<li><strong>Leverage:</strong> Options contracts offer a high degree of leverage, allowing investors to control a large position with a relatively small investment.</li>
+<li><strong>Flexibility:</strong> Options contracts provide flexibility in terms of the timing and price at which the underlying asset can be bought or sold.</li>
+<li><strong>Risk management:</strong> Options contracts can be used to manage risk by limiting potential losses and locking in profits.</li>
+</ul>
+<p><strong>Question 5</strong></p>
+<p>Explain the concept of implied volatility in options pricing.</p>
+<p><strong>Answer</strong></p>
+<p>Implied volatility is a measure of the market's expectation of the volatility of the underlying asset over the life of the option contract. It is used to determine the price of options contracts and reflects the market's perception of the future price movements of the underlying asset.</p>

@@ -1,0 +1,32 @@
+<p><strong>Signals and Systems by Oppenheim: Solution Manual PDF</strong></p>
+<p><strong>Question 1:</strong></p>
+<p>Find the convolution of the following two signals:</p>
+<pre><code>x(n) = {1, 2, 3, 4}
+h(n) = {0, 1, 2}</code></pre>
+<p><strong>Answer:</strong></p>
+<p>Using the convolution sum, we get:</p>
+<pre><code>y(n) = x(n) * h(n) = {0, 1, 4, 10, 14, 8}</code></pre>
+<p><strong>Question 2:</strong></p>
+<p>Determine the Fourier transform of the signal:</p>
+<pre><code>x(t) = e^(-t^2)</code></pre>
+<p><strong>Answer:</strong></p>
+<p>Using the Fourier transform integral:</p>
+<pre><code>X(f) = ∫ (-∞, ∞) x(t) e^(-j2πft) dt = √(π/2) e^(-π^2f^2)</code></pre>
+<p><strong>Question 3:</strong></p>
+<p>Find the Laplace transform of the signal:</p>
+<pre><code>x(t) = sin(2t) u(t)</code></pre>
+<p><strong>Answer:</strong></p>
+<p>Using the Laplace transform definition:</p>
+<pre><code>X(s) = ∫ (0, ∞) x(t) e^(-st) dt = 2 / (s^2 + 4)</code></pre>
+<p><strong>Question 4:</strong></p>
+<p>Determine the transfer function of the system described by the following differential equation:</p>
+<pre><code>y''(t) + 2y'(t) + y(t) = x(t)</code></pre>
+<p><strong>Answer:</strong></p>
+<p>Using the Laplace transform and solving for the ratio of X(s) to Y(s), we get:</p>
+<pre><code>H(s) = Y(s) / X(s) = 1 / (s^2 + 2s + 1)</code></pre>
+<p><strong>Question 5:</strong></p>
+<p>Find the poles and zeros of the transfer function:</p>
+<pre><code>H(s) = (s + 1) / (s^2 + 2s + 5)</code></pre>
+<p><strong>Answer:</strong></p>
+<p>Poles: -1 ± 2j
+Zeros: -1</p>

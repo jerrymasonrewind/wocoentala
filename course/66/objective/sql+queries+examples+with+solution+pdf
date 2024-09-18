@@ -1,0 +1,65 @@
+<p><strong>SQL Queries Examples with Solutions: A Comprehensive Guide</strong></p>
+<p><strong>Introduction</strong></p>
+<p>Structured Query Language (SQL) is a powerful database language used to manage and retrieve data. Understanding SQL is essential for database administrators, data analysts, and anyone working with data. This article presents a collection of common SQL queries along with their solutions, providing a valuable resource for learners and practitioners alike.</p>
+<p><strong>Basic Queries</strong></p>
+<ul>
+<li>
+<p><strong>Question:</strong> Retrieve all data from the <code>Customers</code> table.</p>
+</li>
+<li>
+<p><strong>Solution:</strong> <code>SELECT * FROM Customers;</code></p>
+</li>
+<li>
+<p><strong>Question:</strong> Filter customers by their age.</p>
+</li>
+<li>
+<p><strong>Solution:</strong> <code>SELECT * FROM Customers WHERE Age &gt; 30;</code></p>
+</li>
+</ul>
+<p><strong>Aggregate Functions</strong></p>
+<ul>
+<li>
+<p><strong>Question:</strong> Count the number of orders placed by each customer.</p>
+</li>
+<li>
+<p><strong>Solution:</strong> <code>SELECT CustomerID, COUNT(*) AS OrderCount FROM Orders GROUP BY CustomerID;</code></p>
+</li>
+<li>
+<p><strong>Question:</strong> Find the maximum order amount among all orders.</p>
+</li>
+<li>
+<p><strong>Solution:</strong> <code>SELECT MAX(OrderAmount) FROM Orders;</code></p>
+</li>
+</ul>
+<p><strong>Joins</strong></p>
+<ul>
+<li>
+<p><strong>Question:</strong> Join the <code>Customers</code> and <code>Orders</code> tables to retrieve customer details for each order.</p>
+</li>
+<li>
+<p><strong>Solution:</strong> <code>SELECT * FROM Customers c JOIN Orders o ON c.CustomerID = o.CustomerID;</code></p>
+</li>
+<li>
+<p><strong>Question:</strong> Find customers who have placed at least two orders.</p>
+</li>
+<li>
+<p><strong>Solution:</strong> <code>SELECT c.CustomerID, c.Name FROM Customers c JOIN Orders o ON c.CustomerID = o.CustomerID GROUP BY c.CustomerID HAVING COUNT(*) &gt;= 2;</code></p>
+</li>
+</ul>
+<p><strong>Advanced Queries</strong></p>
+<ul>
+<li>
+<p><strong>Question:</strong> Find customers whose names contain the letter "a".</p>
+</li>
+<li>
+<p><strong>Solution:</strong> <code>SELECT * FROM Customers WHERE Name LIKE '%a%';</code></p>
+</li>
+<li>
+<p><strong>Question:</strong> Retrieve orders placed within a specific date range.</p>
+</li>
+<li>
+<p><strong>Solution:</strong> <code>SELECT * FROM Orders WHERE OrderDate BETWEEN '2023-01-01' AND '2023-03-31';</code></p>
+</li>
+</ul>
+<p><strong>Conclusion</strong></p>
+<p>These SQL query examples provide a foundation for understanding and utilizing SQL effectively. By practicing these queries, learners can gain proficiency in data retrieval, filtering, aggregation, joins, and advanced operations. This comprehensive guide is a valuable resource for anyone seeking to enhance their SQL skills.</p>

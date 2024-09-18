@@ -1,0 +1,54 @@
+<p><strong>Syntax Tree Diagram Exercises with Answers PDF: A Comprehensive Guide to Understanding Programming Languages</strong></p>
+<p>Syntax tree diagrams, also known as parse trees or abstract syntax trees, are graphical representations of the structure of a computer program. They provide a clear and concise way to visualize the relationships between different parts of a program, making it easier to understand and debug code. To enhance your understanding of syntax tree diagrams, this article provides comprehensive exercises with detailed answers in PDF format.</p>
+<p><strong>Question 1:</strong></p>
+<p>Construct a syntax tree diagram for the following expression: <code>x + y * z</code>.</p>
+<p><strong>Answer:</strong></p>
+<pre><code>             +
+            / \
+           x   *
+              / \
+             y   z</code></pre>
+<p><strong>Question 2:</strong></p>
+<p>Given the syntax tree diagram below, write the corresponding expression:</p>
+<pre><code>             =
+            / \
+           a   +
+              / \
+             b   c</code></pre>
+<p><strong>Answer:</strong></p>
+<p><code>a = b + c</code></p>
+<p><strong>Question 3:</strong></p>
+<p>Parse the code snippet and create a syntax tree diagram:</p>
+<pre><code class="language-python">if a &gt; b:
+    return a
+else:
+    return b</code></pre>
+<p><strong>Answer:</strong></p>
+<pre><code>             If
+            /   \
+           &gt;     Return
+          /   \
+         a     b</code></pre>
+<p><strong>Question 4:</strong></p>
+<p>Consider the following syntax tree diagram:</p>
+<pre><code>             for
+            /  \
+           i   Range
+          / \
+         0   10</code></pre>
+<p><strong>Answer:</strong></p>
+<p>The code snippet represented by the diagram is:</p>
+<pre><code class="language-python">for i in range(0, 10):</code></pre>
+<p><strong>Question 5:</strong></p>
+<p>Draw a syntax tree diagram for the assignment statement:</p>
+<pre><code class="language-java">int[] arr = new int[5];</code></pre>
+<p><strong>Answer:</strong></p>
+<pre><code>             =
+            / \
+           arr  New
+              / \
+             int  [
+                   \
+                    5</code></pre>
+<p><strong>Conclusion:</strong></p>
+<p>Syntax tree diagrams are invaluable tools for understanding the structure and meaning of computer programs. By practicing these exercises and reviewing the detailed answers provided in the PDF document, you can deepen your knowledge of programming languages and enhance your ability to read, write, and debug code effectively.</p>

@@ -1,0 +1,13 @@
+<p><strong>Solutions to Problems in Munkres' Topology PDF</strong></p>
+<p><strong>Q1: Define the closure of a set.</strong></p>
+<p>A1: The closure of a set S is the intersection of all closed sets containing S.</p>
+<p><strong>Q2: Prove that the intersection of any collection of open sets is open.</strong></p>
+<p>A2: Let {U_α} be a collection of open sets. For any x in the intersection of {U_α}, there exists an α such that x is in U_α. Since U_α is open, there exists an open ball B(x, r) contained in U_α. Therefore, B(x, r) is contained in the intersection of {U_α}, which proves that the intersection is open.</p>
+<p><strong>Q3: Show that a set is compact if and only if every open cover has a finite subcover.</strong></p>
+<p>A3: Let S be a compact set. Suppose we have an open cover {U_α} of S. Since S is compact, every point in S belongs to a set U<em>α. Therefore, we can find a finite collection of sets {U</em>{α<em>1}, U</em>{α<em>2}, ..., U</em>{α_n}} that covers S. This proves that every open cover has a finite subcover.</p>
+<p>Conversely, suppose that every open cover has a finite subcover. Let {U<em>α} be an open cover of S. By the compactness of S, we can find a finite subcover {U</em>{α<em>1}, U</em>{α<em>2}, ..., U</em>{α_k}} of S. Therefore, S is compact.</p>
+<p><strong>Q4: Prove that a metric space is complete if and only if every Cauchy sequence converges.</strong></p>
+<p>A4: Let (X, d) be a metric space and let {x<em>n} be a Cauchy sequence in X. Suppose that (X, d) is complete. Then there exists an x in X such that lim</em>{n→∞} d(x_n, x) = 0. Therefore, {x_n} converges to x, which proves that every Cauchy sequence converges.</p>
+<p>Conversely, suppose that every Cauchy sequence converges in X. Let {x<em>n} be a Cauchy sequence in X. Then there exists a subsequence {x</em>{n_k}} of {x<em>n} such that lim</em>{k→∞} d(x_{n<em>k}, x</em>{n<em>{k+1}}) = 0. By the completeness of X, {x</em>{n_k}} converges to some x in X. Therefore, {x_n} also converges to x, which proves that X is complete.</p>
+<p><strong>Q5: Define a homeomorphism between two topological spaces.</strong></p>
+<p>A5: A homeomorphism between two topological spaces X and Y is a bijective continuous map f: X → Y such that f^-1: Y → X is also continuous.</p>

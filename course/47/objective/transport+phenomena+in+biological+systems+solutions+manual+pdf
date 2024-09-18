@@ -1,0 +1,34 @@
+<p><strong>Transport Phenomena in Biological Systems Solutions Manual PDF</strong></p>
+<p>Transport phenomena is the study of the movement of mass, momentum, and energy in biological systems. It is a critical field that provides the foundation for understanding the behavior of living organisms. The transport phenomena in biological systems solutions manual PDF is a valuable resource for students and researchers in this field. The manual contains detailed solutions to the problems presented in the textbook, providing a comprehensive understanding of the concepts and applications of transport phenomena in biological systems.</p>
+<p><strong>Question:</strong> A spherical cell has a radius of 10 μm and is suspended in a fluid with a viscosity of 0.01 Pa·s. The cell membrane has a permeability of 1 × 10^-6 cm/s to a solute. If the concentration of the solute in the fluid is 1 mM, what is the flux of the solute into the cell?</p>
+<p><strong>Answer:</strong> The flux of the solute into the cell is given by the following equation:</p>
+<pre><code>J = -D(dC/dr)</code></pre>
+<p>where:</p>
+<ul>
+<li>J is the flux of the solute (mol/m^2·s)</li>
+<li>D is the diffusion coefficient of the solute (m^2/s)</li>
+<li>C is the concentration of the solute (mol/m^3)</li>
+<li>r is the radial distance from the center of the cell (m)</li>
+</ul>
+<p>In this case, the diffusion coefficient of the solute is given by the following equation:</p>
+<pre><code>D = (1/6πrη)</code></pre>
+<p>where:</p>
+<ul>
+<li>r is the radius of the cell (m)</li>
+<li>η is the viscosity of the fluid (Pa·s)</li>
+</ul>
+<p>Plugging in the given values, we get:</p>
+<pre><code>D = (1/6π(10 μm)(0.01 Pa·s)) = 5.24 × 10^-10 m^2/s</code></pre>
+<p>The concentration gradient of the solute can be calculated as follows:</p>
+<pre><code>(dC/dr) = (C2 - C1)/r</code></pre>
+<p>where:</p>
+<ul>
+<li>C2 is the concentration of the solute in the fluid (1 mM)</li>
+<li>C1 is the concentration of the solute inside the cell (assumed to be 0 mM)</li>
+<li>r is the radius of the cell (10 μm)</li>
+</ul>
+<p>Plugging in the given values, we get:</p>
+<pre><code>(dC/dr) = (1 mM - 0 mM)/10 μm = 100 mM/m</code></pre>
+<p>Finally, plugging in the values for D and (dC/dr), we get:</p>
+<pre><code>J = -(5.24 × 10^-10 m^2/s)(100 mM/m) = -5.24 × 10^-8 mol/m^2·s</code></pre>
+<p>Therefore, the flux of the solute into the cell is -5.24 × 10^-8 mol/m^2·s.</p>

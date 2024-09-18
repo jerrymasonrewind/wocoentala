@@ -1,0 +1,11 @@
+<p><strong>Step-by-Step Microsoft Project 2007 PDF Guide</strong></p>
+<p><strong>Q: How do I create a new project in Microsoft Project 2007?</strong></p>
+<p><strong>A:</strong> Open Project 2007 and click on "File" &gt; "New" &gt; "Blank Project." Enter a project name and choose a project template if desired.</p>
+<p><strong>Q: How do I add tasks to my project?</strong></p>
+<p><strong>A:</strong> Go to the "Tasks" tab and click on the "Insert" button. Enter the task name, assign it a duration, and link it to other tasks as necessary.</p>
+<p><strong>Q: How do I assign resources to tasks?</strong></p>
+<p><strong>A:</strong> Go to the "Resources" tab and click on "Assign Resources." Select the appropriate resource and assign them to the desired tasks.</p>
+<p><strong>Q: How do I create a timeline view of my project?</strong></p>
+<p><strong>A:</strong> Go to the "View" tab and select "Gantt Chart." This will display a timeline view of the tasks in your project, including their durations and dependencies.</p>
+<p><strong>Q: How do I save and share my project as a PDF?</strong></p>
+<p><strong>A:</strong> Go to "File" &gt; "Save As." Select "PDF (*.pdf)" as the file type and choose a location to save the file. You can also share the project by clicking on "File" &gt; "Share" and selecting an appropriate sharing method.</p>

@@ -1,0 +1,51 @@
+<h2>Thermal Expansion Sample Problems with Solutions (PDF)</h2>
+<p>Thermal expansion is the phenomenon in which a material's volume increases when its temperature rises. This is due to the increased kinetic energy of the molecules at higher temperatures, causing them to move farther apart.</p>
+<p>The coefficient of thermal expansion is a material property that quantifies the amount of expansion per unit temperature change. It is typically expressed in units of 1/K or 1/°C.</p>
+<p><strong>Problem 1:</strong> A steel rod has a length of 1.00 m at room temperature (20 °C). What is its length when the temperature is increased to 100 °C?</p>
+<p><strong>Solution:</strong></p>
+<p>The coefficient of thermal expansion for steel is 11 x 10^-6 1/°C.</p>
+<p>Using the formula for thermal expansion:</p>
+<p>ΔL = αLΔT</p>
+<p>where:</p>
+<ul>
+<li>ΔL is the change in length</li>
+<li>α is the coefficient of thermal expansion</li>
+<li>L is the original length</li>
+<li>ΔT is the change in temperature</li>
+</ul>
+<p>We have:</p>
+<p>ΔL = (11 x 10^-6 1/°C) (1.00 m) (100 °C - 20 °C)
+ΔL = 0.0088 m</p>
+<p>Therefore, the new length of the steel rod is 1.0088 m.</p>
+<p><strong>Problem 2:</strong> A glass flask has a volume of 1.00 L at 0 °C. What is its volume when filled with water at 80 °C?</p>
+<p><strong>Solution:</strong></p>
+<p>The coefficient of thermal expansion for glass is 9 x 10^-6 1/°C, and the coefficient of thermal expansion for water is 2.1 x 10^-4 1/°C.</p>
+<p>Using the formula for thermal expansion for the flask:</p>
+<p>ΔV = αVΔT</p>
+<p>where:</p>
+<ul>
+<li>ΔV is the change in volume</li>
+<li>α is the coefficient of thermal expansion</li>
+<li>V is the original volume</li>
+<li>ΔT is the change in temperature</li>
+</ul>
+<p>We have:</p>
+<p>ΔV = (9 x 10^-6 1/°C) (1.00 L) (80 °C - 0 °C)
+ΔV = 0.0072 L</p>
+<p>Therefore, the new volume of the flask is 1.0072 L.</p>
+<p><strong>Problem 3:</strong> A copper wire has a diameter of 1.00 mm at 25 °C. What is its diameter when it is heated to 125 °C?</p>
+<p><strong>Solution:</strong></p>
+<p>The coefficient of thermal expansion for copper is 17 x 10^-6 1/°C.</p>
+<p>Using the formula for thermal expansion:</p>
+<p>Δd = αdΔT</p>
+<p>where:</p>
+<ul>
+<li>Δd is the change in diameter</li>
+<li>α is the coefficient of thermal expansion</li>
+<li>d is the original diameter</li>
+<li>ΔT is the change in temperature</li>
+</ul>
+<p>We have:</p>
+<p>Δd = (17 x 10^-6 1/°C) (1.00 mm) (125 °C - 25 °C)
+Δd = 0.0017 mm</p>
+<p>Therefore, the new diameter of the copper wire is 1.0017 mm.</p>

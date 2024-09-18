@@ -1,0 +1,11 @@
+<p><strong>Topology by Munkres Solutions PDF</strong></p>
+<p><strong>1. Question:</strong> Find the boundary of the set S = {(x, y) | x^2 + y^2 ≤ 1}.</p>
+<p><strong>Solution:</strong> The boundary of S is the circle x^2 + y^2 = 1.</p>
+<p><strong>2. Question:</strong> Prove that the union of two open sets in a topological space is open.</p>
+<p><strong>Solution:</strong> Let U and V be two open sets in a topological space X. Then, for any x ∈ U, there exists an open set O_x containing x such that O_x ⊆ U. Similarly, for any y ∈ V, there exists an open set O_y containing y such that O_y ⊆ V. Consider the open set O = ⋃{O_x | x ∈ U} ∪ ⋃{O_y | y ∈ V}. Then, for any x ∈ U ∪ V, either x ∈ U and x ∈ O_x, or x ∈ V and x ∈ O_y. In either case, x ∈ O, so O is open.</p>
+<p><strong>3. Question:</strong> Let X be a topological space and let f: X → Y be a continuous map. Prove that the preimage of an open set in Y under f is open in X.</p>
+<p><strong>Solution:</strong> Let O be an open set in Y. Then, for any x ∈ f^(-1)(O), there exists an open set U containing x such that f(U) ⊆ O. Since f is continuous, U is open in X, so f^(-1)(O) is open in X.</p>
+<p><strong>4. Question:</strong> Define the concept of a base for a topology.</p>
+<p><strong>Solution:</strong> A base for a topology on a set X is a collection B of subsets of X such that every open set in X can be expressed as a union of elements of B.</p>
+<p><strong>5. Question:</strong> Prove that every topological space has a base.</p>
+<p><strong>Solution:</strong> Let X be a topological space. Then, the collection B of all open sets in X is a base for the topology on X. By definition, every open set in X can be expressed as a union of elements of B, so B is a base for the topology on X.</p>
